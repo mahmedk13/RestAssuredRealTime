@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5052" started-at="2019-02-18T18:49:17Z" finished-at="2019-02-18T18:49:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5052" started-at="2019-02-18T18:49:17Z" finished-at="2019-02-18T18:49:22Z">
+      <class name="TestCases.TwitterAPI">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:TestCases.TwitterAPI@129a8472]" name="BeforeSuite" is-config="true" duration-ms="1" started-at="2019-02-19T00:19:17Z" finished-at="2019-02-19T00:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:TestCases.TwitterAPI@129a8472]" name="BeforeClass" is-config="true" duration-ms="17" started-at="2019-02-19T00:19:17Z" finished-at="2019-02-19T00:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:TestCases.TwitterAPI@129a8472]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2019-02-19T00:19:17Z" finished-at="2019-02-19T00:19:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.TwitterAPI.tc01()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="tc01()[pri:0, instance:TestCases.TwitterAPI@129a8472]" name="tc01" duration-ms="4369" started-at="2019-02-19T00:19:17Z" finished-at="2019-02-19T00:19:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:TestCases.TwitterAPI@129a8472]" name="AfterMethod" is-config="true" duration-ms="658" started-at="2019-02-19T00:19:21Z" finished-at="2019-02-19T00:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- TestCases.TwitterAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
